@@ -1,0 +1,117 @@
+5/29/2013 2:05:22 PM
+Nazwa pliku z wynikami:   028_trasa2
+Nazwa pliku trasy:        Trasa 2
+Nazwa ustawien:           1_5cd_m2
+Nazwa obserwatora:        28
+Opis trasy:               trasa2
+
+0:10:453    Znak ograniczenie predkosci
+0:11:053    Przekroczona predkosc
+0:13:236    Skrecenie kierownicy przekroczylo prog
+0:15:353    Skrecenie kierownicy przekroczylo prog
+0:20:335    Przekroczona predkosc
+0:20:768    Przeszkoda Pieszy w miejscu
+0:21:468    Hamowanie przekroczylo prog
+0:22:368    Skrecenie kierownicy przekroczylo prog
+0:23:519    Skrecenie kierownicy przekroczylo prog
+0:32:251    Skrecenie kierownicy przekroczylo prog
+0:33:769    Skrecenie kierownicy przekroczylo prog
+0:37:518    Znak konca ograniczenia predkosci
+0:39:402    Przeszkoda Pies w miejscu
+0:40:202    Hamowanie przekroczylo prog
+0:40:536    Skrecenie kierownicy przekroczylo prog
+0:41:368    Skrecenie kierownicy przekroczylo prog
+0:41:668    Kolizja - otoczenie
+0:56:419    Hamowanie przekroczylo prog
+0:57:519    Skrecenie kierownicy przekroczylo prog
+1:06:731    Hamowanie pojazdu z przodu
+1:11:430    Skrecenie kierownicy przekroczylo prog
+1:15:233    Znak ograniczenie predkosci
+1:16:116    Przekroczona predkosc
+1:16:317    LED ON Reklama grupa D
+1:23:032    Przeszkoda Pies w miejscu
+1:24:081    Hamowanie przekroczylo prog
+1:24:148    Skrecenie kierownicy przekroczylo prog
+1:24:548    LED OFF
+1:24:981    Skrecenie kierownicy przekroczylo prog
+1:25:214    Kolizja - otoczenie
+1:35:047    Przekroczona predkosc
+1:37:329    Znak konca ograniczenia predkosci
+1:38:479    Skrecenie kierownicy przekroczylo prog
+1:43:812    Skrecenie kierownicy przekroczylo prog
+1:45:910    LED ON Reklama grupa E
+1:52:592    Skrecenie kierownicy przekroczylo prog
+1:54:109    Hamowanie przekroczylo prog
+1:59:044    Hamowanie przekroczylo prog
+2:17:576    Hamowanie pojazdu z przodu
+2:18:610    Hamowanie przekroczylo prog
+2:25:460    Skrecenie kierownicy przekroczylo prog
+2:26:642    LED ON Reklama grupa F
+2:29:275    Znak ograniczenie predkosci
+2:29:292    Przekroczona predkosc
+2:34:542    Skrecenie kierownicy przekroczylo prog
+2:39:378    Przekroczona predkosc
+2:40:594    Przeszkoda Pilka na ziemi
+2:41:427    Hamowanie przekroczylo prog
+2:41:527    Skrecenie kierownicy przekroczylo prog
+2:42:228    Skrecenie kierownicy przekroczylo prog
+2:43:910    Skrecenie kierownicy przekroczylo prog
+2:46:711    Hamowanie przekroczylo prog
+2:48:793    Znak konca ograniczenia predkosci
+2:51:409    Hamowanie przekroczylo prog
+2:53:059    Hamowanie przekroczylo prog
+2:53:243    Skrecenie kierownicy przekroczylo prog
+3:00:360    LED ON Reklama grupa C
+3:02:327    Przeszkoda Pies w miejscu
+3:03:293    Skrecenie kierownicy przekroczylo prog
+3:03:943    Skrecenie kierownicy przekroczylo prog
+3:06:526    Przeszkoda Pieszy w miejscu
+3:07:509    Skrecenie kierownicy przekroczylo prog
+3:08:092    LED OFF
+3:08:175    Skrecenie kierownicy przekroczylo prog
+3:11:009    Skrecenie kierownicy przekroczylo prog
+3:11:226    Znak ograniczenie predkosci
+3:11:243    Przekroczona predkosc
+3:16:245    Skrecenie kierownicy przekroczylo prog
+3:18:811    LED ON Reklama grupa E
+3:19:493    Znak konca ograniczenia predkosci
+3:24:977    Skrecenie kierownicy przekroczylo prog
+3:29:979    Przeszkoda Pilka na ziemi
+3:30:312    LED ON Reklama grupa B
+3:30:696    Skrecenie kierownicy przekroczylo prog
+3:31:612    Przeszkoda Pieszy w miejscu
+3:34:479    Przeszkoda Pies w miejscu
+3:35:462    Skrecenie kierownicy przekroczylo prog
+3:35:529    Hamowanie przekroczylo prog
+3:36:146    LED OFF
+3:36:312    Kolizja - przeszkoda
+3:36:779    Skrecenie kierownicy przekroczylo prog
+3:47:562    Hamowanie przekroczylo prog
+3:48:812    Skrecenie kierownicy przekroczylo prog
+3:55:046    Skrecenie kierownicy przekroczylo prog
+3:56:095    Skrecenie kierownicy przekroczylo prog
+3:58:063    LED ON Reklama grupa A
+4:03:413    Przeszkoda Pies w miejscu
+4:04:279    Skrecenie kierownicy przekroczylo prog
+4:04:396    Hamowanie przekroczylo prog
+4:04:999    LED OFF
+4:05:099    Skrecenie kierownicy przekroczylo prog
+4:06:513    Skrecenie kierownicy przekroczylo prog
+4:09:398    Hamowanie przekroczylo prog
+4:09:665    Skrecenie kierownicy przekroczylo prog
+4:11:280    Skrecenie kierownicy przekroczylo prog
+4:13:313    Skrecenie kierownicy przekroczylo prog
+4:20:250    Znak ograniczenie predkosci
+4:20:266    Przekroczona predkosc
+4:21:716    Skrecenie kierownicy przekroczylo prog
+4:28:248    Przeszkoda Pieszy w miejscu
+4:28:998    Hamowanie przekroczylo prog
+4:29:048    Skrecenie kierownicy przekroczylo prog
+4:30:264    Skrecenie kierownicy przekroczylo prog
+4:39:382    Przekroczona predkosc
+4:41:499    Skrecenie kierownicy przekroczylo prog
+4:44:765    Hamowanie przekroczylo prog
+4:46:383    Znak konca ograniczenia predkosci
+4:47:750    Hamowanie pojazdu z przodu
+4:48:182    Hamowanie przekroczylo prog
+5:16:168    Skrecenie kierownicy przekroczylo prog
