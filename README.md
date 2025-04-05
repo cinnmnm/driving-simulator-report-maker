@@ -7,8 +7,8 @@ Ten program służy do automatyzacji analizy danych pochodzących z badań przep
 1. **Pobierz repozytorium**  
     Sklonuj repozytorium na swój komputer za pomocą polecenia:  
     ```bash
-    git clone <URL_REPOZYTORIUM>
-    cd <NAZWA_FOLDERU_REPOZYTORIUM>
+    git clone https://github.com/cinnmnm/driving-simulator-report-maker.git
+    cd driving-simulator-report-maker
     ```
 
 2. **Zainstaluj wymagane zależności**  
@@ -41,7 +41,7 @@ Ten program służy do automatyzacji analizy danych pochodzących z badań przep
 4. Na koniec, tworzone jest podsumowanie (zliczane są kolizje, wyliczany jest całkowity czas przejazdu) i generowany jest raport pokazujący, jak poszczególne zdarzenia wpływały na czasy reakcji, w tym zdarzenia związane z reklamami LED.
 
 ## Przyład utworzonego raporu
-
+```csv
 PODSUMOWANIE WYNIKÓW SYMULACJI
 
 czas reakcji [ms],rodzaj przeszkody,grupa reklam,rodzaj reakcji,kolizja z przeszkodą
@@ -59,4 +59,4 @@ czas przejazdu [ms]:,316168
 liczba kolizji z przeszkodą:,1
 liczba kolizji z otoczeniem:,1
 liczba przekroczeń prędkości:,9
-
+```
